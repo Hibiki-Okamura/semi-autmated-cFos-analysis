@@ -16,7 +16,7 @@ public class cFosUnitArea {
 
         int[] areaOfEachRegion = new int[number_of_subjectRegios];
         int[] nLabels_table = new int[number_of_subjectRegios];
-        double areaPerPixel = 0.000454*0.000454; 
+        double areaPerPixel = set your resolution; 
 
         try {
 
