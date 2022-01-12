@@ -17,7 +17,7 @@ Set your path. Please set the variables as you want from line 31 to 33.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; matched image between atlas and microscope image.  
 - output: cFos images  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;the csv file include the number of cFos per each subject area  
-### 5. Make "separate_mask" in ImageJ using exclude edge function in Analyze Particles.  
+### 5. Make "separate_mask" in ImageJ using exclude edge function in Analyze Particles  
 - input: grayscale images  
 - output: binarization images obtained from ImageJ
 
