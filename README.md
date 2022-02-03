@@ -1,4 +1,5 @@
 # How to use 
+## this readme is written for extracting and counting the c-Fos
 ### 1. Run Grayscale.java  
 Set your path.  
 - input: microscope images  
